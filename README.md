@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Météo Estavayer Chrome Extension
 
 Chrome extension displaying real-time wind speed and weather data from the Estavayer-le-Lac port weather station in Switzerland.
@@ -27,7 +26,4 @@ This extension shows the current wind speed in the browser toolbar badge and pro
 
 1. Clone this repository:
 ```bash
-=======
-# meteo-estavayer
-Chrome extension for wind speed in Estavayer
->>>>>>> 91e02a9a6876bf6ac92785d5bed234df4de68948
+   git clone git@github.com:dmrrlc/meteo-estavayer.git
